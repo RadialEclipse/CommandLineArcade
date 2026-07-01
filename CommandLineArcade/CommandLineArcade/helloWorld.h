@@ -24,7 +24,7 @@ class HelloWorld
 
 		void printNum(int result)
 		{
-			std::cout << num << std::endl;
+			//std::cout << num << std::endl;
 			std::cout << "The result was: " << result << "\nThis program will cease in : \n";
 		}
 

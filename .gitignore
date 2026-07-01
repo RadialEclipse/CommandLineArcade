@@ -1,3 +1,6 @@
 *.ipch
 CommandLineArcade/.vs/CommandLineArcade.slnx/v18/ipch/AutoPCH/be7bbc4f53f9525a/HELLOWORLD.ipch
 *.ipch
+*.ipch
+*.vsidx
+*.vsidx
