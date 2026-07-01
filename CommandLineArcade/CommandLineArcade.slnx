@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CommandLineArcade/CommandLineArcade.vcxproj" />
+  <Project Path="CommandLineArcade/CommandLineArcade.vcxproj" Id="8bcb6372-b85a-4b50-a745-5245e3a0fa1b" />
 </Solution>
