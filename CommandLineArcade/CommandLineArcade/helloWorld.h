@@ -14,7 +14,6 @@ class HelloWorld
 		{
 			std::cout << "Contructor created successfully!\n";
 			//this->num = num;
-			
 		}
 		~HelloWorld()
 		{
@@ -32,7 +31,6 @@ class HelloWorld
 		{
 			int result = num += numTwo;
 			printNum(result);
-			
 		}
 
 		void timer(int seconds)
@@ -46,7 +44,6 @@ class HelloWorld
 				std::this_thread::sleep_for(std::chrono::seconds(1));
 
 				seconds--;
-
 			}
 		}
 	

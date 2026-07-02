@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|solutionrelative:CommandLineArcade\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\helloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|solutionrelative:CommandLineArcade\\helloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|solutionrelative:CommandLineArcade\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\helloWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|solutionrelative:CommandLineArcade\\helloWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\helloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BCB6372-B85A-4B50-A745-5245E3A0FA1B}|CommandLineArcade\\CommandLineArcade.vcxproj|solutionrelative:CommandLineArcade\\helloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\menu.h",
+              "RelativeDocumentMoniker": "CommandLineArcade\\menu.h",
+              "ToolTip": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\menu.h",
+              "RelativeToolTip": "CommandLineArcade\\menu.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T14:40:54.14Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "CommandLineArcade\\main.cpp",
               "ToolTip": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\main.cpp",
               "RelativeToolTip": "CommandLineArcade\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-24T16:47:40.696Z",
               "EditorCaption": ""
@@ -45,13 +62,14 @@
               "RelativeDocumentMoniker": "CommandLineArcade\\helloWorld.h",
               "ToolTip": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\helloWorld.h",
               "RelativeToolTip": "CommandLineArcade\\helloWorld.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-24T16:54:38.894Z"
+              "WhenOpened": "2026-06-24T16:54:38.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "helloWorld.cpp",
               "DocumentMoniker": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\helloWorld.cpp",
               "RelativeDocumentMoniker": "CommandLineArcade\\helloWorld.cpp",
@@ -59,7 +77,8 @@
               "RelativeToolTip": "CommandLineArcade\\helloWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-24T16:55:05.338Z"
+              "WhenOpened": "2026-06-24T16:55:05.338Z",
+              "EditorCaption": ""
             }
           ]
         }
