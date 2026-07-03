@@ -8,13 +8,13 @@ void static welcomeMsg()
 	std::cout << "Welcome to the Command Line Arcade!\n";
 	std::cout << "Please enter a number (1-2) to select a game to play.\n";
 	std::cout << "\nGame 1: Guess A Number\nGame 2: Rock Paper Scissors\n";
-
 }
 
 int main()
 {
 	int menuInput;
 	char confirm;
+	//GuessANumber playGAN;
 
 	welcomeMsg();
 	std::cin >> menuInput;
@@ -26,10 +26,12 @@ int main()
 		
 			if (confirm == 'Y' || confirm == 'y')
 			{
+				
 				std::cout << "Game " << menuInput << ":Guess A Number, has been selected.\n";
 				std::cout << "Enjoy the game!!\n";
-
 				GuessANumber();
+
+				
 			}
 			else if (confirm == 'N' || confirm == 'n')
 			{

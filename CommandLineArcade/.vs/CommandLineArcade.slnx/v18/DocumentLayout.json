@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "CommandLineArcade\\guessANumber.h",
               "ToolTip": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\guessANumber.h",
               "RelativeToolTip": "CommandLineArcade\\guessANumber.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-07-02T14:40:54.14Z",
               "EditorCaption": ""
@@ -47,9 +47,9 @@
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\main.cpp",
               "RelativeDocumentMoniker": "CommandLineArcade\\main.cpp",
-              "ToolTip": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\main.cpp*",
-              "RelativeToolTip": "CommandLineArcade\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\main.cpp",
+              "RelativeToolTip": "CommandLineArcade\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-24T16:47:40.696Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "CommandLineArcade\\helloWorld.h",
               "ToolTip": "C:\\Users\\gokap\\Downloads\\LT\u0027s Stuff\\Github\\CommandLineArcade\\CommandLineArcade\\CommandLineArcade\\helloWorld.h",
               "RelativeToolTip": "CommandLineArcade\\helloWorld.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-24T16:54:38.894Z",
               "EditorCaption": ""
@@ -77,8 +77,7 @@
               "RelativeToolTip": "CommandLineArcade\\helloWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-24T16:55:05.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T16:55:05.338Z"
             }
           ]
         }
