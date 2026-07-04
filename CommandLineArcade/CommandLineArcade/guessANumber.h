@@ -40,7 +40,7 @@ public:
 	{
 		std::cout << "\n\nThe Computer has numbers 1-10 to choose from.\n";
 		std::cout << "Try to guess the number correctly to win!\n\n";
-
+		
 		int numbers[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 		int computerNumber;
 		int userInput;

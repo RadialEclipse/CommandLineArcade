@@ -29,5 +29,8 @@
     <ClInclude Include="guessANumber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="rockPaperScissors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

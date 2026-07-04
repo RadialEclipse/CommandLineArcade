@@ -1,5 +1,5 @@
 ﻿  main.cpp
-C:\Users\gokap\Downloads\LT's Stuff\Github\CommandLineArcade\CommandLineArcade\CommandLineArcade\guessANumber.h(102,9): warning C4551: function call missing argument list
+C:\Users\gokap\Downloads\LT's Stuff\Github\CommandLineArcade\CommandLineArcade\CommandLineArcade\guessANumber.h(103,9): warning C4551: function call missing argument list
   (compiling source file 'main.cpp')
   
   CommandLineArcade.vcxproj -> C:\Users\gokap\Downloads\LT's Stuff\Github\CommandLineArcade\CommandLineArcade\x64\Debug\CommandLineArcade.exe

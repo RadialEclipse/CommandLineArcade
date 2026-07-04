@@ -2,6 +2,7 @@
 #include <string>
 #include "helloWorld.h"
 #include "guessANumber.h"
+#include "rockPaperScissors.h"
 
 void static welcomeMsg()
 {
@@ -18,7 +19,7 @@ int main()
 
 	welcomeMsg();
 	std::cin >> menuInput;
-
+	
 	if (menuInput == 1)
 	{
 		std::cout << "You selected Game " << menuInput << ", correct? (Y/N)\n";
@@ -53,7 +54,8 @@ int main()
 			if (confirm == 'Y' || confirm == 'y')
 			{
 				std::cout << "Game " << menuInput << ":Rock Paper Scissors, has been selected.\n";
-				std::cout << "Enjoy the game!!\n";
+				std::cout << "Enjoy the game!!\n\n";
+				RockPaperScissors();
 			}
 			else if (confirm == 'N' || confirm == 'n')
 			{
