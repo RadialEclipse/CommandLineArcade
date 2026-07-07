@@ -30,7 +30,8 @@ int main()
 				
 				std::cout << "Game " << menuInput << ":Guess A Number, has been selected.\n";
 				std::cout << "Enjoy the game!!\n";
-				GuessANumber();
+				GuessANumber gan;
+				gan.playGAN();
 
 				
 			}
@@ -55,7 +56,8 @@ int main()
 			{
 				std::cout << "Game " << menuInput << ":Rock Paper Scissors, has been selected.\n";
 				std::cout << "Enjoy the game!!\n\n";
-				RockPaperScissors();
+				RockPaperScissors rps;
+				rps.playRPS();
 			}
 			else if (confirm == 'N' || confirm == 'n')
 			{

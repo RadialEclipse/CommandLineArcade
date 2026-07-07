@@ -100,7 +100,7 @@ public:
 		{
 			std::cout << "Thank you for playing! Have A good day!\n\n";
 			std::cout << "Program terminated...\n\n";
-			std::exit;
+			std::exit(EXIT_SUCCESS);
 		}
 	}
 };
