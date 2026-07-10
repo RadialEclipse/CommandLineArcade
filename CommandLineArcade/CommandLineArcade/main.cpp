@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include "helloWorld.h"
 #include "guessANumber.h"
 #include "rockPaperScissors.h"
 
@@ -31,9 +30,7 @@ int main()
 				std::cout << "Game " << menuInput << ":Guess A Number, has been selected.\n";
 				std::cout << "Enjoy the game!!\n";
 				GuessANumber gan;
-				gan.playGAN();
-
-				
+				gan.playGAN();	
 			}
 			else if (confirm == 'N' || confirm == 'n')
 			{
@@ -45,7 +42,6 @@ int main()
 				std::cout << "Please enter 'Y' for Yes, or 'N' for No.";
 				std::cin >> confirm;
 			}
-
 	}
 	else if (menuInput == 2)
 	{

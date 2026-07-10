@@ -16,10 +16,6 @@ public:
 		loadTimer(3);
 		playGAN();
 	}
-	~GuessANumber()
-	{
-
-	}
 
 	void timer(int seconds)
 	{
